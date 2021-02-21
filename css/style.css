@@ -1,0 +1,13 @@
+.entete{
+	background-color: #33a6cc;
+	font-family: Trebuchet MS, sans-serif;
+	color: white;
+}
+
+.left{
+	padding-left:0;
+}
+
+.right{
+	padding-right: 0;
+}
